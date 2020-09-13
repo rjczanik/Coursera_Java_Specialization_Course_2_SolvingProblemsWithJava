@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/opt/jdk/jdk-14.0.1/lib/userlib/apache-csv.jar"/>
+	<classpathentry kind="lib" path="/opt/jdk/jdk-14.0.1/lib/userlib/courserajava.jar"/>
+	<classpathentry kind="lib" path="/opt/jdk/jdk-14.0.1/lib/userlib/pi4j-core.jar"/>
+	<classpathentry kind="lib" path="/opt/jdk/jdk-14.0.1/lib/userlib/pi4j-device.jar"/>
+	<classpathentry kind="lib" path="/opt/jdk/jdk-14.0.1/lib/userlib/pi4j-gpio-extension.jar"/>
+	<classpathentry kind="lib" path="/opt/jdk/jdk-14.0.1/lib/userlib/pi4j-service.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
