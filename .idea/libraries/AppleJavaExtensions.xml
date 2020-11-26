@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="AppleJavaExtensions">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Intro to Java/lib/AppleJavaExtensions.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Intro to Java/lib/bjdoclet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Intro to Java/lib/commons-logging-api-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Intro to Java/lib/diffutils-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Intro to Java/lib/httpclient-4.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Intro to Java/lib/httpcore-4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Intro to Java/lib/httpmime-4.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Intro to Java/lib/junit-4.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Intro to Java/lib/org-netbeans-lib-cvsclient.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Intro to Java/lib/svnkit-javahl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Intro to Java/lib/svnkit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Intro to Java/lib/trilead.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Intro to Java/lib/extensions/submitter.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Intro to Java/lib/userlib/apache-csv.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Intro to Java/lib/userlib/courserajava.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Intro to Java/lib/userlib/pi4j-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Intro to Java/lib/userlib/pi4j-device.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Intro to Java/lib/userlib/pi4j-gpio-extension.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Intro to Java/lib/userlib/pi4j-service.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Intro to Java/lib/userlib/apache-csv.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Intro to Java/lib/userlib/courserajava.jar!/" />
+    </SOURCES>
+  </library>
+</component>
